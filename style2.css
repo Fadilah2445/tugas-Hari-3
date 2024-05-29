@@ -1,0 +1,48 @@
+.container-naf {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  justify-content: center;
+  
+}
+.text1 {
+  background-color:darkseagreen;
+  font-family: cursive;
+  color:black;
+  text-align: center;
+}
+.text2 {
+  color:darkslategray;
+  text-align: center;
+
+}
+.text3 {
+  margin: 15px;
+}
+.text4 {
+  font-size: 50px;
+  width: 100px;
+}
+.gambar {
+  width: 300px;
+}
+
+.gambar1 {
+  width: 300px;
+}
+
+.gambar2 {
+  width: 300px;
+}
+
+.footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: end;
+  gap: 15px;
+}
+
+.button:hover {
+  background-color:rgb(0, 248, 248);
+
+}
